@@ -1,5 +1,5 @@
 # Muteed
 Landing Page Muteed
-cd my-project
-npm install 
-npm run dev
+# cd my-project
+# npm install 
+# npm run dev
